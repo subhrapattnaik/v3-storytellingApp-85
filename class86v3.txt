@@ -1,0 +1,68 @@
+Step1:
+
+create a firebase --web project--ex:storyApp
+realtime db --dont create users root node
+
+authentication--google based enable
+
+rules 
+
+read :true
+write:true
+
+
+-------------------------------------------------
+Search for Google Developer's console
+in google search
+
+sigin with gmail id
+
+
+credential
+
+search for the project(you created in firebase)
+storyApp
+
+---------------------------------
+
+oauth consent screen--external
+
+-------------------------
+
+create credential
+
+ios id creation is easy
+
+host.exp.exponent
+
+------------------
+
+android
+
+
+certificate generation
+
+open c:/program files/Git/bin--type cmd
+
+-----------------------------------------------------
+C:\Program Files\Git\bin>openssl rand -base64 32 | openssl sha1 -c
+(stdin)= c7:8d:90:af:a4:f4:84:b7:b0:8f:5f:87:86:08:cb:e0:3f:56:a8:e5
+
+-------------------------------------------------------------------
+copy this and generate oauth client id for android
+
+c7:8d:90:af:a4:f4:84:b7:b0:8f:5f:87:86:08:cb:e0:3f:56:a8:e5
+
+-------------------------------------------------------
+
+try with v38 expo version
+
+------------------------------------------------
+
+null error will be solved
+
+by deleting the entries in authentication
+
+if there are entries in authentication but not in 
+users..then theme will be null
+----------------------------------------------------
