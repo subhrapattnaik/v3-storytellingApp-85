@@ -45,7 +45,7 @@ certificate generation
 open c:/program files/Git/usr/bin--type cmd
 
 -----------------------------------------------------
-C:\Program Files\Git\bin>openssl rand -base64 32 | openssl sha1 -c
+C:\Program Files\Git\usr\bin>openssl rand -base64 32 | openssl sha1 -c
 (stdin)= c7:8d:90:af:a4:f4:84:b7:b0:8f:5f:87:86:08:cb:e0:3f:56:a8:e5
 
 -------------------------------------------------------------------
