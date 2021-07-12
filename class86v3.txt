@@ -42,7 +42,7 @@ android
 
 certificate generation
 
-open c:/program files/Git/bin--type cmd
+open c:/program files/Git/usr/bin--type cmd
 
 -----------------------------------------------------
 C:\Program Files\Git\bin>openssl rand -base64 32 | openssl sha1 -c
