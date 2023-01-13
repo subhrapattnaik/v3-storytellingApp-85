@@ -1,7 +1,7 @@
 # v3-storytellingApp-85
-
-
-
+How to Set Up Google Login in React Native & Firebase
+https://www.freecodecamp.org/news/google-login-with-react-native-and-firebase/
+----------------------------------------------------------------------------
 https://docs.expo.io/versions/latest/sdk/google/#using-it-inside-of-the-expo-app
 
 
